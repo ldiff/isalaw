@@ -1,0 +1,50 @@
+<html>
+  <head>
+    <title>Isa Law</title>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "LegalService",
+      "name": "Isa Law",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "780 NW 42nd Ave Suite 416",
+        "addressLocality": "Miami",
+        "addressRegion": "FL",
+        "postalCode": "33126",
+        "addressCountry": "US"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 25.779177399671966,
+        "longitude": -80.265159831091
+      },
+      "url": "https://isalawyers.com/",
+      "telephone": "+13059380676",
+      "email": "mailto:isadora@isalawyers.com",
+      "founder": {
+        "@type": "person"
+          "name": "Isa Velazquez, Esq."
+          },
+      "keywords": "immigration attorney, immigration law firm, immigration lawyers, business based immigration, naturalization, us citizenship",
+      "logo": "https://isalawyers.com/wp-content/uploads/logo-1.png",
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "9:00",
+          "closes": "17:00"
+        }
+      ],
+    }
+    </script>
+  </head>
+  <body>
+  </body>
+</html>
